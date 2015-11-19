@@ -1,0 +1,2209 @@
+ExtempFile Run: 2011-12-01 20:17:59
+
+java.io.FileNotFoundException: files\CNN.com - World\U.S. 'trash' saving lives abroad - Third World hospitals are saving lives with medical materials discarded in the U.S.&lt;div class= feedflare &gt;
+&lt;a href= http   rss.cnn.co.html (The filename, directory name, or volume label syntax is incorrect)
+
+ExtempFile Finished Run: 2011-12-01 20:18:00
+
+ExtempFile Run: 2011-12-01 20:24:16
+
+java.io.FileNotFoundException: files\CNN.com - World\U.S. 'trash' saving lives abroad - Third World hospitals are saving lives with medical materials discarded in the U.S.&lt;div class= feedflare &gt;
+&lt;a href= http   rss.cnn.co.html (The filename, directory name, or volume label syntax is incorrect)
+
+ExtempFile Finished Run: 2011-12-01 20:24:16
+
+ExtempFile Run: 2011-12-01 20:49:49
+
+java.io.FileNotFoundException: files\CNN.com - World\U.S. 'trash' saving lives abroad - Third World hospitals are saving lives with medical materials discarded in the U.S.&lt;div class= feedflare &gt;
+&lt;a href= http   rss.cnn.co.html (The filename, directory name, or volume label syntax is incorrect)
+
+Task Completed! 
+2Feeds
+16Items
+0Total Download Size (mb)
+117.1875Average Download Speed
+Time: 0minutes
+
+ExtempFile Finished Run: 2011-12-01 20:49:56
+
+ExtempFile Run: 2011-12-01 20:51:18
+
+java.io.FileNotFoundException: files\CNN.com - World\U.S. 'trash' saving lives abroad - Third World hospitals are saving lives with medical materials discarded in the U.S.&lt;div class= feedflare &gt;
+&lt;a href= http   rss.cnn.co.html (The filename, directory name, or volume label syntax is incorrect)
+
+Task Completed! 
+2 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0minutes
+
+ExtempFile Finished Run: 2011-12-01 20:51:19
+
+ExtempFile Run: 2011-12-01 20:52:23
+
+java.io.FileNotFoundException: files\CNN.com - World\U.S. 'trash' saving lives abroad - Third World hospitals are saving lives with medical materials discarded in the U.S.&lt;div class= feedflare &gt;
+&lt;a href= http   rss.cnn.co.html (The filename, directory name, or volume label syntax is incorrect)
+
+Task Completed! 
+2 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0minutes
+
+ExtempFile Finished Run: 2011-12-01 20:52:24
+
+ExtempFile Run: 2011-12-01 22:51:30
+
+java.io.FileNotFoundException: files\CNN.com - World\U.S. 'trash' saving lives abroad - Third World hospitals are saving lives with medical materials discarded in the U.S.&lt;div class= feedflare &gt;
+&lt;a href= http   rss.cnn.co.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\CNN.com - U.S.\'South Park' console game to debut next year - Gamers who want to kill Kenny may soon have their chance.&lt;div class= feedflare &gt;
+&lt;a href= http   rss.cnn.com ~ff rss cnn_u.html (The filename, directory name, or volume label syntax is incorrect)
+
+Task Completed! 
+2 Feeds
+4 Items
+0 Total Download Size (mb)
+117.1875 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-01 22:51:41
+
+ExtempFile Run: 2011-12-01 23:52:45
+
+java.io.FileNotFoundException: files\CNN.com - World\U.S. 'trash' saving lives abroad - Third World hospitals are saving lives with medical materials discarded in the U.S.&lt;div class= feedflare &gt;
+&lt;a href= http   rss.cnn.co.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\CNN.com - U.S.\'South Park' console game to debut next year - Gamers who want to kill Kenny may soon have their chance.&lt;div class= feedflare &gt;
+&lt;a href= http   rss.cnn.com ~ff rss cnn_u.html (The filename, directory name, or volume label syntax is incorrect)
+
+Task Completed! 
+2 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-01 23:52:46
+
+ExtempFile Run: 2011-12-02 00:41:09
+
+java.io.FileNotFoundException: files\CNN.com - World\U.S. 'trash' saving lives abroad - Third World hospitals are saving lives with medical materials discarded in the U.S.&lt;div class= feedflare &gt;
+&lt;a href= http   rss.cnn.co.html (The filename, directory name, or volume label syntax is incorrect)
+
+Task Completed! 
+1 Feeds
+1 Items
+0 Total Download Size (mb)
+273.4375 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 00:41:11
+
+ExtempFile Run: 2011-12-02 00:48:45
+
+java.io.FileNotFoundException: files\CNN.com - World\U.S. 'trash' saving lives abroad - Third World hospitals are saving lives with medical materials discarded in the U.S.&lt;div class= feedflare &gt;
+&lt;a href= http   rss.cnn.co.html (The filename, directory name, or volume label syntax is incorrect)
+
+Task Completed! 
+1 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 00:48:46
+
+ExtempFile Run: 2011-12-02 00:52:49
+
+java.io.FileNotFoundException: files\CNN.com - World\U.S. 'trash' saving lives abroad - Third World hospitals are saving lives with medical materials discarded in the U.S.&lt;div class= feedflare &gt;
+&lt;a href= http   rss.cnn.co.html (The filename, directory name, or volume label syntax is incorrect)
+
+Task Completed! 
+1 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 00:52:49
+
+ExtempFile Run: 2011-12-02 00:54:01
+
+java.io.FileNotFoundException: files\CNN.com - World\U.S. 'trash' saving lives abroad - Third World hospitals are saving lives with medical materials discarded in the U.S.&lt;div class= feedflare &gt;
+&lt;a href= http   rss.cnn.co.html (The filename, directory name, or volume label syntax is incorrect)
+
+Task Completed! 
+1 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 00:54:02
+
+ExtempFile Run: 2011-12-02 01:28:31
+
+java.io.FileNotFoundException: files\CNN.com - World\U.S. 'trash' saving lives abroad - Third World hospitals are saving lives with medical materials discarded in the U.S.&lt;div class= feedflare &gt;
+&lt;a href= http   rss.cnn.co.html (The filename, directory name, or volume label syntax is incorrect)
+
+Task Completed! 
+1 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 01:28:31
+
+ExtempFile Run: 2011-12-02 01:29:19
+
+java.io.FileNotFoundException: files\CNN.com - World\U.S. 'trash' saving lives abroad - Third World hospitals are saving lives with medical materials discarded in the U.S.&lt;div class= feedflare &gt;
+&lt;a href= http   rss.cnn.co.html (The filename, directory name, or volume label syntax is incorrect)
+
+Task Completed! 
+1 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 01:29:19
+
+ExtempFile Run: 2011-12-02 01:29:30
+
+java.io.FileNotFoundException: files\CNN.com - World\U.S. 'trash' saving lives abroad - Third World hospitals are saving lives with medical materials discarded in the U.S.&lt;div class= feedflare &gt;
+&lt;a href= http   rss.cnn.co.html (The filename, directory name, or volume label syntax is incorrect)
+
+Task Completed! 
+1 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 01:29:30
+
+ExtempFile Run: 2011-12-02 01:36:05
+
+java.io.FileNotFoundException: files\CNN.com - World\U.S. 'trash' saving lives abroad - Third World hospitals are saving lives with medical materials discarded in the U.S.&lt;div class= feedflare &gt;
+&lt;a href= http   rss.cnn.co.html (The filename, directory name, or volume label syntax is incorrect)
+
+Task Completed! 
+1 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 01:36:05
+
+ExtempFile Run: 2011-12-02 01:36:43
+
+java.io.FileNotFoundException: files\CNN.com - World\U.S. 'trash' saving lives abroad - Third World hospitals are saving lives with medical materials discarded in the U.S.&lt;div class= feedflare &gt;
+&lt;a href= http   rss.cnn.co.html (The filename, directory name, or volume label syntax is incorrect)
+
+Task Completed! 
+2 Feeds
+51 Items
+3 Total Download Size (mb)
+382.8125 Average Download Speed
+Time: 1 minutes
+
+ExtempFile Finished Run: 2011-12-02 01:37:55
+
+ExtempFile Run: 2011-12-02 01:45:28
+
+java.io.FileNotFoundException: files\CNN.com - World\U.S. 'trash' saving lives abroad - Third World hospitals are saving lives with medical materials discarded in the U.S.&lt;div class= feedflare &gt;
+&lt;a href= http   rss.cnn.co.html (The filename, directory name, or volume label syntax is incorrect)
+
+Task Completed! 
+1 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 01:45:29
+
+ExtempFile Run: 2011-12-02 01:45:58
+
+java.io.FileNotFoundException: files\CNN.com - World\U.S. 'trash' saving lives abroad - Third World hospitals are saving lives with medical materials discarded in the U.S.&lt;div class= feedflare &gt;
+&lt;a href= http   rss.cnn.co.html (The filename, directory name, or volume label syntax is incorrect)
+
+Task Completed! 
+2 Feeds
+5 Items
+0 Total Download Size (mb)
+359.375 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 01:46:06
+
+ExtempFile Run: 2011-12-02 01:47:47
+
+java.io.FileNotFoundException: files\CNN.com - World\U.S. 'trash' saving lives abroad - Third World hospitals are saving lives with medical materials discarded in the U.S.&lt;div class= feedflare &gt;
+&lt;a href= http   rss.cnn.co.html (The filename, directory name, or volume label syntax is incorrect)
+
+Task Completed! 
+1 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 01:47:48
+
+ExtempFile Run: 2011-12-02 01:48:26
+
+java.io.FileNotFoundException: files\CNN.com - World\U.S. 'trash' saving lives abroad - Third World hospitals are saving lives with medical materials discarded in the U.S.&lt;div class= feedflare &gt;
+&lt;a href= http   rss.cnn.co.html (The filename, directory name, or volume label syntax is incorrect)
+
+Task Completed! 
+2 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 01:48:26
+
+ExtempFile Run: 2011-12-02 01:52:44
+
+Task Completed! 
+1 Feeds
+10 Items
+0 Total Download Size (mb)
+585.9375 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 01:52:50
+
+ExtempFile Run: 2011-12-02 01:54:05
+
+Task Completed! 
+1 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 01:54:05
+
+ExtempFile Run: 2011-12-02 01:56:35
+
+Task Completed! 
+2 Feeds
+68 Items
+5 Total Download Size (mb)
+390.625 Average Download Speed
+Time: 1 minutes
+
+ExtempFile Finished Run: 2011-12-02 01:58:13
+
+ExtempFile Run: 2011-12-02 02:16:22
+
+java.io.IOException: Server returned HTTP response code: 400 for URL: http://rss.cnn.com/rss/cnn_world.rsshttp://feeds.bbci.co.uk/news/rss.xml
+
+Task Completed! 
+1 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 02:16:22
+
+ExtempFile Run: 2011-12-02 02:16:28
+
+java.io.IOException: Server returned HTTP response code: 400 for URL: http://rss.cnn.com/rss/cnn_world.rsshttp://feeds.bbci.co.uk/news/rss.xml
+
+Task Completed! 
+1 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 02:16:29
+
+ExtempFile Run: 2011-12-02 02:18:12
+
+java.io.IOException: Server returned HTTP response code: 400 for URL: http://rss.cnn.com/rss/cnn_world.rsshttp://feeds.bbci.co.uk/news/rss.xml
+
+Task Completed! 
+1 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 02:18:13
+
+ExtempFile Run: 2011-12-02 02:19:05
+
+java.net.MalformedURLException: no protocol: 
+
+java.io.FileNotFoundException: files\CNN.com - U.S.\'South Park' console game to debut next year - Gamers who want to kill Kenny may soon have their chance.&lt;div class= feedflare &gt;
+ (The filename, directory name, or volume label syntax is incorrect)
+
+Task Completed! 
+3 Feeds
+5 Items
+0 Total Download Size (mb)
+359.375 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 02:19:10
+
+ExtempFile Run: 2011-12-02 02:19:30
+
+java.net.MalformedURLException: no protocol: 
+
+java.io.FileNotFoundException: files\CNN.com - U.S.\'South Park' console game to debut next year - Gamers who want to kill Kenny may soon have their chance.&lt;div class= feedflare &gt;
+ (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\POLITICO - Top 10 - Playbook 24 7\Obama, Clinton, Bush 43 appear together for World AIDS Day - ROMNEY TO EMPHASIZE HIS FAMILY IN NEWT BARRAGE; raises  (The system cannot find the path specified)
+
+Task Completed! 
+4 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 02:19:31
+
+ExtempFile Run: 2011-12-02 02:28:15
+
+java.net.MalformedURLException: no protocol: 
+
+java.io.FileNotFoundException: files\CNN.com - U.S.\'South Park' console game to debut next year - Gamers who want to kill Kenny may soon have their chance.&lt;div class= feedflare &gt;
+ (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\POLITICO - Top 10 - Playbook 24 7\Obama, Clinton, Bush 43 appear together for World AIDS Day - ROMNEY TO EMPHASIZE HIS FAMILY IN NEWT BARRAGE; raises  (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\Africa\Joseph Kabila and Where the Election in Congo Went Wrong - &lt;div class=&quot;field field-type-text field-field-article-subtitle&quot;&gt;
+    (The filename, directory name, or volume label syntax is incorrect)
+
+Task Completed! 
+5 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 02:28:16
+
+ExtempFile Run: 2011-12-02 02:28:18
+
+java.net.MalformedURLException: no protocol: 
+
+java.io.FileNotFoundException: files\CNN.com - U.S.\'South Park' console game to debut next year - Gamers who want to kill Kenny may soon have their chance.&lt;div class= feedflare &gt;
+ (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\POLITICO - Top 10 - Playbook 24 7\Obama, Clinton, Bush 43 appear together for World AIDS Day - ROMNEY TO EMPHASIZE HIS FAMILY IN NEWT BARRAGE; raises  (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\Africa\Joseph Kabila and Where the Election in Congo Went Wrong - &lt;div class=&quot;field field-type-text field-field-article-subtitle&quot;&gt;
+    (The filename, directory name, or volume label syntax is incorrect)
+
+Task Completed! 
+5 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 02:28:19
+
+ExtempFile Run: 2011-12-02 02:28:22
+
+java.net.MalformedURLException: no protocol: 
+
+java.io.FileNotFoundException: files\CNN.com - U.S.\'South Park' console game to debut next year - Gamers who want to kill Kenny may soon have their chance.&lt;div class= feedflare &gt;
+ (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\POLITICO - Top 10 - Playbook 24 7\Obama, Clinton, Bush 43 appear together for World AIDS Day - ROMNEY TO EMPHASIZE HIS FAMILY IN NEWT BARRAGE; raises  (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\Africa\Joseph Kabila and Where the Election in Congo Went Wrong - &lt;div class=&quot;field field-type-text field-field-article-subtitle&quot;&gt;
+    (The filename, directory name, or volume label syntax is incorrect)
+
+Task Completed! 
+5 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 02:28:23
+
+ExtempFile Run: 2011-12-02 02:28:23
+
+java.net.MalformedURLException: no protocol: 
+
+java.io.FileNotFoundException: files\CNN.com - U.S.\'South Park' console game to debut next year - Gamers who want to kill Kenny may soon have their chance.&lt;div class= feedflare &gt;
+ (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\POLITICO - Top 10 - Playbook 24 7\Obama, Clinton, Bush 43 appear together for World AIDS Day - ROMNEY TO EMPHASIZE HIS FAMILY IN NEWT BARRAGE; raises  (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\Africa\Joseph Kabila and Where the Election in Congo Went Wrong - &lt;div class=&quot;field field-type-text field-field-article-subtitle&quot;&gt;
+    (The filename, directory name, or volume label syntax is incorrect)
+
+Task Completed! 
+5 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 02:28:24
+
+ExtempFile Run: 2011-12-02 02:28:44
+
+java.net.MalformedURLException: no protocol: 
+
+java.io.FileNotFoundException: files\CNN.com - U.S.\'South Park' console game to debut next year - Gamers who want to kill Kenny may soon have their chance.&lt;div class= feedflare &gt;
+ (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\POLITICO - Top 10 - Playbook 24 7\Obama, Clinton, Bush 43 appear together for World AIDS Day - ROMNEY TO EMPHASIZE HIS FAMILY IN NEWT BARRAGE; raises  (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\Africa\Joseph Kabila and Where the Election in Congo Went Wrong - &lt;div class=&quot;field field-type-text field-field-article-subtitle&quot;&gt;
+    (The filename, directory name, or volume label syntax is incorrect)
+
+Task Completed! 
+5 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 02:28:45
+
+ExtempFile Run: 2011-12-02 02:28:46
+
+java.net.MalformedURLException: no protocol: 
+
+java.io.FileNotFoundException: files\CNN.com - U.S.\'South Park' console game to debut next year - Gamers who want to kill Kenny may soon have their chance.&lt;div class= feedflare &gt;
+ (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\POLITICO - Top 10 - Playbook 24 7\Obama, Clinton, Bush 43 appear together for World AIDS Day - ROMNEY TO EMPHASIZE HIS FAMILY IN NEWT BARRAGE; raises  (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\Africa\Joseph Kabila and Where the Election in Congo Went Wrong - &lt;div class=&quot;field field-type-text field-field-article-subtitle&quot;&gt;
+    (The filename, directory name, or volume label syntax is incorrect)
+
+Task Completed! 
+5 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 02:28:47
+
+ExtempFile Run: 2011-12-02 02:28:48
+
+java.net.MalformedURLException: no protocol: 
+
+java.io.FileNotFoundException: files\CNN.com - U.S.\'South Park' console game to debut next year - Gamers who want to kill Kenny may soon have their chance.&lt;div class= feedflare &gt;
+ (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\POLITICO - Top 10 - Playbook 24 7\Obama, Clinton, Bush 43 appear together for World AIDS Day - ROMNEY TO EMPHASIZE HIS FAMILY IN NEWT BARRAGE; raises  (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\Africa\Joseph Kabila and Where the Election in Congo Went Wrong - &lt;div class=&quot;field field-type-text field-field-article-subtitle&quot;&gt;
+    (The filename, directory name, or volume label syntax is incorrect)
+
+Task Completed! 
+5 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 02:28:49
+
+ExtempFile Run: 2011-12-02 02:29:18
+
+java.net.MalformedURLException: no protocol: 
+
+java.lang.StringIndexOutOfBoundsException: String index out of range: -13
+
+java.io.FileNotFoundException: files\The Economist  Europe\Italy’s new government  Mountains still to climb - &lt;p&gt;POLITICS in Italy seeps into every nook and cranny of society. Even  (The system cannot find the path specified)
+
+Task Completed! 
+4 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 02:29:19
+
+ExtempFile Run: 2011-12-02 02:32:14
+
+java.net.MalformedURLException: no protocol: 
+
+java.lang.StringIndexOutOfBoundsException: String index out of range: -13
+
+java.io.FileNotFoundException: files\The Economist  Europe\Italy’s new government  Mountains still to climb - &lt;p&gt;POLITICS in Italy seeps into every nook and cranny of society. Even  (The system cannot find the path specified)
+
+Task Completed! 
+4 Feeds
+10 Items
+0 Total Download Size (mb)
+585.9375 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 02:32:21
+
+ExtempFile Run: 2011-12-02 03:06:58
+
+java.io.FileNotFoundException: files\The Economist  Europe\Italy’s new government  Mountains still to climb - &lt;p&gt;POLITICS in Italy seeps into every nook and cranny of society. Even  (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Georgia’s political future  Misha challenged - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Charlemagne  The horsemen approach - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   me (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Sweden and the euro  Out and happy - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\France and the euro crisis  The ratings game - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Belgium’s new government  An end to waffle  - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img  (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\The Balkans and Europe  Hard pounding - &lt;p&gt;A FEW pensioners queue for free coffee at a stall in Zagreb’s main square as op (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Angela Merkel and the euro  The new iron chancellor - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+     (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Turkey and human rights  Home thoughts from abroad - &lt;p&gt;WITH her intense gaze, washed-out jeans and talk of freedom, Dilsa (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Poland’s government  Tusk sharpens up - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&q (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\France and automation  Driverless, workless - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img  (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Hungary’s economy  Planet Orban - &lt;p&gt;FOR those wanting to find evidence of the headstrong and self-defeating approach of H (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\The Spanish election  Mañana belongs to Mariano - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&q (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Charlemagne  The sinking euro - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.e (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Spain’s election  Mañana is too late - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http    (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Russia’s future  Putin his place - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   medi (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Russia and NATO  An absence of trust - &lt;p&gt;THE hopes at NATO’s 2010 Lisbon summit that Russia might be a partner in the mis (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Italy’s new prime minister  The full Monti - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;h (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Crime in southern France  Rio on the Med - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Neo-Nazi crimes in Germany  A horror from the past - &lt;p&gt;THE murderers’ boasts are as chilling as their crimes. From 2000 t (The system cannot find the path specified)
+
+Task Completed! 
+3 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 03:06:58
+
+ExtempFile Run: 2011-12-02 03:13:16
+
+java.io.FileNotFoundException: files\The Economist  Europe\Italy’s new government  Mountains still to climb - &lt;p&gt;POLITICS in Italy seeps into every nook and cranny of society. Even  (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Georgia’s political future  Misha challenged - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Charlemagne  The horsemen approach - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   me (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Sweden and the euro  Out and happy - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\France and the euro crisis  The ratings game - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Belgium’s new government  An end to waffle  - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img  (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\The Balkans and Europe  Hard pounding - &lt;p&gt;A FEW pensioners queue for free coffee at a stall in Zagreb’s main square as op (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Angela Merkel and the euro  The new iron chancellor - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+     (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Turkey and human rights  Home thoughts from abroad - &lt;p&gt;WITH her intense gaze, washed-out jeans and talk of freedom, Dilsa (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Poland’s government  Tusk sharpens up - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&q (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\France and automation  Driverless, workless - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img  (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Hungary’s economy  Planet Orban - &lt;p&gt;FOR those wanting to find evidence of the headstrong and self-defeating approach of H (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\The Spanish election  Mañana belongs to Mariano - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&q (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Charlemagne  The sinking euro - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.e (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Spain’s election  Mañana is too late - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http    (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Russia’s future  Putin his place - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   medi (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Russia and NATO  An absence of trust - &lt;p&gt;THE hopes at NATO’s 2010 Lisbon summit that Russia might be a partner in the mis (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Italy’s new prime minister  The full Monti - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;h (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Crime in southern France  Rio on the Med - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Neo-Nazi crimes in Germany  A horror from the past - &lt;p&gt;THE murderers’ boasts are as chilling as their crimes. From 2000 t (The system cannot find the path specified)
+
+Task Completed! 
+3 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 03:13:17
+
+ExtempFile Run: 2011-12-02 03:14:15
+
+java.io.FileNotFoundException: files\The Economist  Europe\Italy’s new government  Mountains still to climb - &lt;p&gt;POLITICS in Italy seeps into every nook and cranny of society. Even .html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Georgia’s political future  Misha challenged - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Charlemagne  The horsemen approach - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   me.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Sweden and the euro  Out and happy - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\France and the euro crisis  The ratings game - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Belgium’s new government  An end to waffle  - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img .html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\The Balkans and Europe  Hard pounding - &lt;p&gt;A FEW pensioners queue for free coffee at a stall in Zagreb’s main square as op.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Angela Merkel and the euro  The new iron chancellor - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    .html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Turkey and human rights  Home thoughts from abroad - &lt;p&gt;WITH her intense gaze, washed-out jeans and talk of freedom, Dilsa.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Poland’s government  Tusk sharpens up - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&q.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\France and automation  Driverless, workless - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img .html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Hungary’s economy  Planet Orban - &lt;p&gt;FOR those wanting to find evidence of the headstrong and self-defeating approach of H.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\The Spanish election  Mañana belongs to Mariano - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&q.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Charlemagne  The sinking euro - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.e.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Spain’s election  Mañana is too late - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   .html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Russia’s future  Putin his place - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   medi.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Russia and NATO  An absence of trust - &lt;p&gt;THE hopes at NATO’s 2010 Lisbon summit that Russia might be a partner in the mis.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Italy’s new prime minister  The full Monti - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;h.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Crime in southern France  Rio on the Med - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Neo-Nazi crimes in Germany  A horror from the past - &lt;p&gt;THE murderers’ boasts are as chilling as their crimes. From 2000 t.html (The system cannot find the path specified)
+
+Task Completed! 
+3 Feeds
+10 Items
+0 Total Download Size (mb)
+515.625 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 03:14:23
+
+ExtempFile Run: 2011-12-02 03:16:31
+
+java.io.FileNotFoundException: files\The Economist  Europe\Italy’s new government  Mountains still to climb - &lt;p&gt;POLITICS in Italy seeps into every nook and cranny of society. Even .html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Georgia’s political future  Misha challenged - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Charlemagne  The horsemen approach - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   me.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Sweden and the euro  Out and happy - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\France and the euro crisis  The ratings game - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Belgium’s new government  An end to waffle  - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img .html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\The Balkans and Europe  Hard pounding - &lt;p&gt;A FEW pensioners queue for free coffee at a stall in Zagreb’s main square as op.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Angela Merkel and the euro  The new iron chancellor - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    .html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Turkey and human rights  Home thoughts from abroad - &lt;p&gt;WITH her intense gaze, washed-out jeans and talk of freedom, Dilsa.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Poland’s government  Tusk sharpens up - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&q.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\France and automation  Driverless, workless - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img .html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Hungary’s economy  Planet Orban - &lt;p&gt;FOR those wanting to find evidence of the headstrong and self-defeating approach of H.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\The Spanish election  Mañana belongs to Mariano - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&q.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Charlemagne  The sinking euro - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.e.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Spain’s election  Mañana is too late - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   .html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Russia’s future  Putin his place - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   medi.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Russia and NATO  An absence of trust - &lt;p&gt;THE hopes at NATO’s 2010 Lisbon summit that Russia might be a partner in the mis.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Italy’s new prime minister  The full Monti - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;h.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Crime in southern France  Rio on the Med - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Neo-Nazi crimes in Germany  A horror from the past - &lt;p&gt;THE murderers’ boasts are as chilling as their crimes. From 2000 t.html (The system cannot find the path specified)
+
+Task Completed! 
+3 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 03:16:32
+
+ExtempFile Run: 2011-12-02 03:18:30
+
+java.io.FileNotFoundException: files\The Economist  Europe\Italy’s new government  Mountains still to climb - &lt;p&gt;POLITICS in Italy seeps into every nook and cranny of society. Even .html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Georgia’s political future  Misha challenged - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Charlemagne  The horsemen approach - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   me.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Sweden and the euro  Out and happy - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\France and the euro crisis  The ratings game - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Belgium’s new government  An end to waffle  - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img .html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\The Balkans and Europe  Hard pounding - &lt;p&gt;A FEW pensioners queue for free coffee at a stall in Zagreb’s main square as op.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Angela Merkel and the euro  The new iron chancellor - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    .html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Turkey and human rights  Home thoughts from abroad - &lt;p&gt;WITH her intense gaze, washed-out jeans and talk of freedom, Dilsa.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Poland’s government  Tusk sharpens up - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&q.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\France and automation  Driverless, workless - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img .html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Hungary’s economy  Planet Orban - &lt;p&gt;FOR those wanting to find evidence of the headstrong and self-defeating approach of H.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\The Spanish election  Mañana belongs to Mariano - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&q.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Charlemagne  The sinking euro - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.e.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Spain’s election  Mañana is too late - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   .html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Russia’s future  Putin his place - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   medi.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Russia and NATO  An absence of trust - &lt;p&gt;THE hopes at NATO’s 2010 Lisbon summit that Russia might be a partner in the mis.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Italy’s new prime minister  The full Monti - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;h.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Crime in southern France  Rio on the Med - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Neo-Nazi crimes in Germany  A horror from the past - &lt;p&gt;THE murderers’ boasts are as chilling as their crimes. From 2000 t.html (The system cannot find the path specified)
+
+Task Completed! 
+3 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 03:18:31
+
+ExtempFile Run: 2011-12-02 03:23:18
+
+java.io.FileNotFoundException: files\The Economist  Europe\Italy’s new government  Mountains still to climb - &lt;p&gt;POLITICS in Italy seeps into every nook and cranny of society. Even .html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Georgia’s political future  Misha challenged - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Charlemagne  The horsemen approach - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   me.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Sweden and the euro  Out and happy - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\France and the euro crisis  The ratings game - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Belgium’s new government  An end to waffle  - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img .html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\The Balkans and Europe  Hard pounding - &lt;p&gt;A FEW pensioners queue for free coffee at a stall in Zagreb’s main square as op.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Angela Merkel and the euro  The new iron chancellor - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    .html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Turkey and human rights  Home thoughts from abroad - &lt;p&gt;WITH her intense gaze, washed-out jeans and talk of freedom, Dilsa.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Poland’s government  Tusk sharpens up - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&q.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\France and automation  Driverless, workless - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img .html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Hungary’s economy  Planet Orban - &lt;p&gt;FOR those wanting to find evidence of the headstrong and self-defeating approach of H.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\The Spanish election  Mañana belongs to Mariano - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&q.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Charlemagne  The sinking euro - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.e.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Spain’s election  Mañana is too late - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   .html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Russia’s future  Putin his place - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   medi.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Russia and NATO  An absence of trust - &lt;p&gt;THE hopes at NATO’s 2010 Lisbon summit that Russia might be a partner in the mis.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Italy’s new prime minister  The full Monti - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;h.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Crime in southern France  Rio on the Med - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Neo-Nazi crimes in Germany  A horror from the past - &lt;p&gt;THE murderers’ boasts are as chilling as their crimes. From 2000 t.html (The system cannot find the path specified)
+
+Task Completed! 
+3 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 03:23:19
+
+ExtempFile Run: 2011-12-02 03:25:34
+
+java.io.FileNotFoundException: files\The Economist  Europe\Italy’s new government  Mountains still to climb - &lt;p&gt;POLITICS in Italy seeps into every nook and cranny of society. Even .html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Georgia’s political future  Misha challenged - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Charlemagne  The horsemen approach - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   me.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Sweden and the euro  Out and happy - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\France and the euro crisis  The ratings game - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Belgium’s new government  An end to waffle  - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img .html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\The Balkans and Europe  Hard pounding - &lt;p&gt;A FEW pensioners queue for free coffee at a stall in Zagreb’s main square as op.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Angela Merkel and the euro  The new iron chancellor - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    .html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Turkey and human rights  Home thoughts from abroad - &lt;p&gt;WITH her intense gaze, washed-out jeans and talk of freedom, Dilsa.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Poland’s government  Tusk sharpens up - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&q.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\France and automation  Driverless, workless - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img .html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Hungary’s economy  Planet Orban - &lt;p&gt;FOR those wanting to find evidence of the headstrong and self-defeating approach of H.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\The Spanish election  Mañana belongs to Mariano - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&q.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Charlemagne  The sinking euro - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.e.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Spain’s election  Mañana is too late - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   .html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Russia’s future  Putin his place - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   medi.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Russia and NATO  An absence of trust - &lt;p&gt;THE hopes at NATO’s 2010 Lisbon summit that Russia might be a partner in the mis.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Italy’s new prime minister  The full Monti - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;h.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Crime in southern France  Rio on the Med - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src.html (The system cannot find the path specified)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Neo-Nazi crimes in Germany  A horror from the past - &lt;p&gt;THE murderers’ boasts are as chilling as their crimes. From 2000 t.html (The system cannot find the path specified)
+
+Task Completed! 
+3 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 03:25:35
+
+ExtempFile Run: 2011-12-02 03:29:52
+
+java.io.FileNotFoundException: files\The Economist  Europe\Georgia’s political future  Misha challenged - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Charlemagne  The horsemen approach - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   me.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Sweden and the euro  Out and happy - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\France and the euro crisis  The ratings game - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Belgium’s new government  An end to waffle  - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img .html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Angela Merkel and the euro  The new iron chancellor - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    .html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Poland’s government  Tusk sharpens up - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&q.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\France and automation  Driverless, workless - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img .html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\The Spanish election  Mañana belongs to Mariano - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&q.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Charlemagne  The sinking euro - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.e.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Spain’s election  Mañana is too late - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   .html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Russia’s future  Putin his place - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   medi.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Italy’s new prime minister  The full Monti - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;h.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Crime in southern France  Rio on the Med - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src.html (The filename, directory name, or volume label syntax is incorrect)
+
+Task Completed! 
+3 Feeds
+6 Items
+0 Total Download Size (mb)
+640.625 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 03:29:57
+
+ExtempFile Run: 2011-12-02 03:35:13
+
+java.io.FileNotFoundException: files\CNN.com - World\U.S. 'trash' saving lives abroad - Third World hospitals are saving lives with medical materials discarded in the U.S.&lt;div class= feedflare &gt;
+&.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Georgia’s political future  Misha challenged - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot;http   medi.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Charlemagne  The horsemen approach - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.economist.com site.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Sweden and the euro  Out and happy - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot;http   media.economis.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\France and the euro crisis  The ratings game - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.economis.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Belgium’s new government  An end to waffle  - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot;http   media.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Angela Merkel and the euro  The new iron chancellor - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot;http.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Poland’s government  Tusk sharpens up - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot;http   media.econo.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\France and automation  Driverless, workless - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot;http   media.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\The Spanish election  Mañana belongs to Mariano - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.econo.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Charlemagne  The sinking euro - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.economist.com sites def.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Spain’s election  Mañana is too late - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.economist.com si.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Russia’s future  Putin his place - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.economist.com sites .html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Italy’s new prime minister  The full Monti - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.economist..html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Crime in southern France  Rio on the Med - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot;http   media.ec.html (The filename, directory name, or volume label syntax is incorrect)
+
+Task Completed! 
+3 Feeds
+15 Items
+0 Total Download Size (mb)
+625.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 03:35:24
+
+ExtempFile Run: 2011-12-02 03:35:53
+
+java.io.FileNotFoundException: files\CNN.com - World\U.S. 'trash' saving lives abroad - Third World hospitals are saving lives with medical materials discarded in the U.S.&lt;div class= feedflare &gt;
+&.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Georgia’s political future  Misha challenged - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot;http   medi.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Charlemagne  The horsemen approach - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.economist.com site.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Sweden and the euro  Out and happy - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot;http   media.economis.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\France and the euro crisis  The ratings game - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.economis.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Belgium’s new government  An end to waffle  - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot;http   media.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Angela Merkel and the euro  The new iron chancellor - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot;http.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Poland’s government  Tusk sharpens up - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot;http   media.econo.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\France and automation  Driverless, workless - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot;http   media.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\The Spanish election  Mañana belongs to Mariano - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.econo.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Charlemagne  The sinking euro - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.economist.com sites def.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Spain’s election  Mañana is too late - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.economist.com si.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Russia’s future  Putin his place - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.economist.com sites .html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Italy’s new prime minister  The full Monti - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.economist..html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Crime in southern France  Rio on the Med - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot;http   media.ec.html (The filename, directory name, or volume label syntax is incorrect)
+
+Task Completed! 
+3 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 03:35:54
+
+ExtempFile Run: 2011-12-02 03:36:38
+
+java.io.FileNotFoundException: files\CNN.com - World\U.S. 'trash' saving lives abroad - Third World hospitals are saving lives with medical materials discarded in the U.S.&lt;div class= feedflare &gt;
+&.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Georgia’s political future  Misha challenged - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot;http   medi.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Charlemagne  The horsemen approach - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.economist.com site.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Sweden and the euro  Out and happy - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot;http   media.economis.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\France and the euro crisis  The ratings game - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.economis.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Belgium’s new government  An end to waffle  - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot;http   media.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Angela Merkel and the euro  The new iron chancellor - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot;http.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Poland’s government  Tusk sharpens up - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot;http   media.econo.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\France and automation  Driverless, workless - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot;http   media.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\The Spanish election  Mañana belongs to Mariano - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.econo.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Charlemagne  The sinking euro - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.economist.com sites def.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Spain’s election  Mañana is too late - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.economist.com si.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Russia’s future  Putin his place - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.economist.com sites .html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Italy’s new prime minister  The full Monti - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.economist..html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Crime in southern France  Rio on the Med - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot;http   media.ec.html (The filename, directory name, or volume label syntax is incorrect)
+
+Task Completed! 
+3 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 03:36:38
+
+ExtempFile Run: 2011-12-02 03:37:24
+
+java.io.FileNotFoundException: files\CNN.com - World\U.S. 'trash' saving lives abroad - Third World hospitals are saving lives with medical materials discarded in the U.S.&lt;div class= feedflare &gt;
+&.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Georgia’s political future  Misha challenged - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot;http   medi.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Charlemagne  The horsemen approach - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.economist.com site.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Sweden and the euro  Out and happy - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot;http   media.economis.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\France and the euro crisis  The ratings game - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.economis.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Belgium’s new government  An end to waffle  - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot;http   media.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Angela Merkel and the euro  The new iron chancellor - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot;http.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Poland’s government  Tusk sharpens up - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot;http   media.econo.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\France and automation  Driverless, workless - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot;http   media.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\The Spanish election  Mañana belongs to Mariano - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.econo.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Charlemagne  The sinking euro - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.economist.com sites def.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Spain’s election  Mañana is too late - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.economist.com si.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Russia’s future  Putin his place - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.economist.com sites .html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Italy’s new prime minister  The full Monti - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.economist..html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: files\The Economist  Europe\Crime in southern France  Rio on the Med - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot;http   media.ec.html (The filename, directory name, or volume label syntax is incorrect)
+
+Task Completed! 
+3 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 03:37:25
+
+ExtempFile Run: 2011-12-02 03:38:53
+
+java.io.FileNotFoundException: CNN.com - World\U.S. 'trash' saving lives abroad - Third World hospitals are saving lives with medical materials discarded in the U.S.&lt;div class= feedflare &gt;
+& (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Georgia’s political future  Misha challenged - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot;http   medi (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Charlemagne  The horsemen approach - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.economist.com site (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Sweden and the euro  Out and happy - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot;http   media.economis (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\France and the euro crisis  The ratings game - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.economis (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Belgium’s new government  An end to waffle  - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot;http   media (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Angela Merkel and the euro  The new iron chancellor - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot;http (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Poland’s government  Tusk sharpens up - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot;http   media.econo (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\France and automation  Driverless, workless - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot;http   media (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\The Spanish election  Mañana belongs to Mariano - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.econo (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Charlemagne  The sinking euro - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.economist.com sites def (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Spain’s election  Mañana is too late - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.economist.com si (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Russia’s future  Putin his place - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.economist.com sites  (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Italy’s new prime minister  The full Monti - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.economist. (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Crime in southern France  Rio on the Med - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot;http   media.ec (The filename, directory name, or volume label syntax is incorrect)
+
+Task Completed! 
+3 Feeds
+15 Items
+0 Total Download Size (mb)
+585.9375 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 03:39:04
+
+ExtempFile Run: 2011-12-02 03:40:24
+
+java.io.FileNotFoundException: CNN.com - World\U.S. 'trash' saving lives abroad - Third World hospitals are saving lives with medical materials discarded in the U.S.&lt;div class= feedflare &gt;
+& (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Georgia’s political future  Misha challenged - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot;http   medi (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Charlemagne  The horsemen approach - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.economist.com site (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Sweden and the euro  Out and happy - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot;http   media.economis (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\France and the euro crisis  The ratings game - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.economis (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Belgium’s new government  An end to waffle  - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot;http   media (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Angela Merkel and the euro  The new iron chancellor - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot;http (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Poland’s government  Tusk sharpens up - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot;http   media.econo (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\France and automation  Driverless, workless - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot;http   media (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\The Spanish election  Mañana belongs to Mariano - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.econo (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Charlemagne  The sinking euro - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.economist.com sites def (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Spain’s election  Mañana is too late - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.economist.com si (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Russia’s future  Putin his place - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.economist.com sites  (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Italy’s new prime minister  The full Monti - &lt;p&gt;  &lt;div class=&quot;content-image-full&quot;&gt;
+    &lt;img src=&quot;http   media.economist. (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Crime in southern France  Rio on the Med - &lt;p&gt;  &lt;div class=&quot;content-image-float clearfix&quot;&gt;
+    &lt;img src=&quot;http   media.ec (The filename, directory name, or volume label syntax is incorrect)
+
+Task Completed! 
+3 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 03:40:24
+
+ExtempFile Run: 2011-12-02 03:47:17
+
+Task Completed! 
+3 Feeds
+30 Items
+1 Total Download Size (mb)
+445.3125 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 03:47:50
+
+ExtempFile Run: 2011-12-02 03:49:42
+
+java.io.FileNotFoundException: CNN.com - World\U.S. 'trash' saving lives abroad - Third World hospitals are saving lives with medical materials discarded in the U.S. lt;div class= feedflare  gt;
+  (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Georgia’s political future  Misha challenged -  lt;p gt;   lt;div class= quot;content-image-float clearfix quot; gt;
+     lt;img src= quot;http   medi (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Charlemagne  The horsemen approach -  lt;p gt;   lt;div class= quot;content-image-full quot; gt;
+     lt;img src= quot;http   media.economist.com site (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Sweden and the euro  Out and happy -  lt;p gt;   lt;div class= quot;content-image-float clearfix quot; gt;
+     lt;img src= quot;http   media.economis (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\France and the euro crisis  The ratings game -  lt;p gt;   lt;div class= quot;content-image-full quot; gt;
+     lt;img src= quot;http   media.economis (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Belgium’s new government  An end to waffle  -  lt;p gt;   lt;div class= quot;content-image-float clearfix quot; gt;
+     lt;img src= quot;http   media (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Angela Merkel and the euro  The new iron chancellor -  lt;p gt;   lt;div class= quot;content-image-float clearfix quot; gt;
+     lt;img src= quot;http (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Poland’s government  Tusk sharpens up -  lt;p gt;   lt;div class= quot;content-image-float clearfix quot; gt;
+     lt;img src= quot;http   media.econo (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\France and automation  Driverless, workless -  lt;p gt;   lt;div class= quot;content-image-float clearfix quot; gt;
+     lt;img src= quot;http   media (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\The Spanish election  Mañana belongs to Mariano -  lt;p gt;   lt;div class= quot;content-image-full quot; gt;
+     lt;img src= quot;http   media.econo (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Charlemagne  The sinking euro -  lt;p gt;   lt;div class= quot;content-image-full quot; gt;
+     lt;img src= quot;http   media.economist.com sites def (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Spain’s election  Mañana is too late -  lt;p gt;   lt;div class= quot;content-image-full quot; gt;
+     lt;img src= quot;http   media.economist.com si (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Russia’s future  Putin his place -  lt;p gt;   lt;div class= quot;content-image-full quot; gt;
+     lt;img src= quot;http   media.economist.com sites  (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Italy’s new prime minister  The full Monti -  lt;p gt;   lt;div class= quot;content-image-full quot; gt;
+     lt;img src= quot;http   media.economist. (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Crime in southern France  Rio on the Med -  lt;p gt;   lt;div class= quot;content-image-float clearfix quot; gt;
+     lt;img src= quot;http   media.ec (The filename, directory name, or volume label syntax is incorrect)
+
+Task Completed! 
+3 Feeds
+7 Items
+0 Total Download Size (mb)
+640.625 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 03:49:48
+
+ExtempFile Run: 2011-12-02 03:51:09
+
+java.io.FileNotFoundException: CNN.com - World\U.S. 'trash' saving lives abroad - Third World hospitals are saving lives with medical materials discarded in the U.S. lt;div class= feedflare  gt;
+ .html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Georgia’s political future  Misha challenged -  lt;p gt;   lt;div class= quot;content-image-float clearfix quot; gt;
+     lt;img src= quot;http   medi.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Charlemagne  The horsemen approach -  lt;p gt;   lt;div class= quot;content-image-full quot; gt;
+     lt;img src= quot;http   media.economist.com site.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Sweden and the euro  Out and happy -  lt;p gt;   lt;div class= quot;content-image-float clearfix quot; gt;
+     lt;img src= quot;http   media.economis.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\France and the euro crisis  The ratings game -  lt;p gt;   lt;div class= quot;content-image-full quot; gt;
+     lt;img src= quot;http   media.economis.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Belgium’s new government  An end to waffle  -  lt;p gt;   lt;div class= quot;content-image-float clearfix quot; gt;
+     lt;img src= quot;http   media.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Angela Merkel and the euro  The new iron chancellor -  lt;p gt;   lt;div class= quot;content-image-float clearfix quot; gt;
+     lt;img src= quot;http.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Poland’s government  Tusk sharpens up -  lt;p gt;   lt;div class= quot;content-image-float clearfix quot; gt;
+     lt;img src= quot;http   media.econo.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\France and automation  Driverless, workless -  lt;p gt;   lt;div class= quot;content-image-float clearfix quot; gt;
+     lt;img src= quot;http   media.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\The Spanish election  Mañana belongs to Mariano -  lt;p gt;   lt;div class= quot;content-image-full quot; gt;
+     lt;img src= quot;http   media.econo.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Charlemagne  The sinking euro -  lt;p gt;   lt;div class= quot;content-image-full quot; gt;
+     lt;img src= quot;http   media.economist.com sites def.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Spain’s election  Mañana is too late -  lt;p gt;   lt;div class= quot;content-image-full quot; gt;
+     lt;img src= quot;http   media.economist.com si.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Russia’s future  Putin his place -  lt;p gt;   lt;div class= quot;content-image-full quot; gt;
+     lt;img src= quot;http   media.economist.com sites .html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Italy’s new prime minister  The full Monti -  lt;p gt;   lt;div class= quot;content-image-full quot; gt;
+     lt;img src= quot;http   media.economist..html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Crime in southern France  Rio on the Med -  lt;p gt;   lt;div class= quot;content-image-float clearfix quot; gt;
+     lt;img src= quot;http   media.ec.html (The filename, directory name, or volume label syntax is incorrect)
+
+Task Completed! 
+3 Feeds
+15 Items
+0 Total Download Size (mb)
+648.4375 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 03:51:20
+
+ExtempFile Run: 2011-12-02 03:54:46
+
+java.io.FileNotFoundException: CNN.com - World\U.S. 'trash' saving lives abroad - Third World hospitals are saving lives with medical materials discarded in the U.S. lt;div class= feedflare  gt;
+ .html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Georgia’s political future  Misha challenged -  lt;p gt;   lt;div class= quot;content-image-float clearfix quot; gt;
+     lt;img src= quot;http   medi.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Charlemagne  The horsemen approach -  lt;p gt;   lt;div class= quot;content-image-full quot; gt;
+     lt;img src= quot;http   media.economist.com site.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Sweden and the euro  Out and happy -  lt;p gt;   lt;div class= quot;content-image-float clearfix quot; gt;
+     lt;img src= quot;http   media.economis.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\France and the euro crisis  The ratings game -  lt;p gt;   lt;div class= quot;content-image-full quot; gt;
+     lt;img src= quot;http   media.economis.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Belgium’s new government  An end to waffle  -  lt;p gt;   lt;div class= quot;content-image-float clearfix quot; gt;
+     lt;img src= quot;http   media.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Angela Merkel and the euro  The new iron chancellor -  lt;p gt;   lt;div class= quot;content-image-float clearfix quot; gt;
+     lt;img src= quot;http.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Poland’s government  Tusk sharpens up -  lt;p gt;   lt;div class= quot;content-image-float clearfix quot; gt;
+     lt;img src= quot;http   media.econo.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\France and automation  Driverless, workless -  lt;p gt;   lt;div class= quot;content-image-float clearfix quot; gt;
+     lt;img src= quot;http   media.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\The Spanish election  Mañana belongs to Mariano -  lt;p gt;   lt;div class= quot;content-image-full quot; gt;
+     lt;img src= quot;http   media.econo.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Charlemagne  The sinking euro -  lt;p gt;   lt;div class= quot;content-image-full quot; gt;
+     lt;img src= quot;http   media.economist.com sites def.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Spain’s election  Mañana is too late -  lt;p gt;   lt;div class= quot;content-image-full quot; gt;
+     lt;img src= quot;http   media.economist.com si.html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Russia’s future  Putin his place -  lt;p gt;   lt;div class= quot;content-image-full quot; gt;
+     lt;img src= quot;http   media.economist.com sites .html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Italy’s new prime minister  The full Monti -  lt;p gt;   lt;div class= quot;content-image-full quot; gt;
+     lt;img src= quot;http   media.economist..html (The filename, directory name, or volume label syntax is incorrect)
+
+java.io.FileNotFoundException: The Economist  Europe\Crime in southern France  Rio on the Med -  lt;p gt;   lt;div class= quot;content-image-float clearfix quot; gt;
+     lt;img src= quot;http   media.ec.html (The filename, directory name, or volume label syntax is incorrect)
+
+Task Completed! 
+3 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 03:54:47
+
+ExtempFile Run: 2011-12-02 04:00:40
+
+Task Completed! 
+3 Feeds
+15 Items
+1 Total Download Size (mb)
+765.625 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 04:00:50
+
+ExtempFile Run: 2011-12-02 07:53:32
+
+Task Completed! 
+2 Feeds
+30 Items
+1 Total Download Size (mb)
+789.0625 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 07:53:51
+
+ExtempFile Run: 2011-12-02 09:12:58
+
+java.lang.StringIndexOutOfBoundsException: String index out of range: -13
+
+Task Completed! 
+2 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 09:12:59
+
+ExtempFile Run: 2011-12-02 09:15:24
+
+java.lang.StringIndexOutOfBoundsException: String index out of range: -13
+
+Task Completed! 
+2 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 09:15:51
+
+ExtempFile Run: 2011-12-02 09:25:22
+
+Task Completed! 
+2 Feeds
+3 Items
+0 Total Download Size (mb)
+562.5 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-02 09:25:25
+
+ExtempFile Run: 2011-12-04 12:41:54
+
+Task Completed! 
+2 Feeds
+3 Items
+0 Total Download Size (mb)
+382.8125 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-04 12:41:59
+
+ExtempFile Run: 2011-12-04 13:32:22
+
+Task Completed! 
+2 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-04 13:32:22
+
+ExtempFile Run: 2011-12-04 14:56:49
+
+Task Completed! 
+2 Feeds
+13 Items
+0 Total Download Size (mb)
+562.5 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-04 14:56:58
+
+ExtempFile Run: 2011-12-04 15:07:07
+
+Task Completed! 
+2 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-04 15:07:08
+
+ExtempFile Run: 2011-12-04 15:08:52
+
+Task Completed! 
+2 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-04 15:08:53
+
+ExtempFile Run: 2011-12-04 15:09:27
+
+Task Completed! 
+2 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-04 15:09:28
+
+ExtempFile Run: 2011-12-04 20:26:17
+
+java.util.regex.PatternSyntaxException: Unexpected internal error near index 1
+\
+ ^
+
+java.util.regex.PatternSyntaxException: Unexpected internal error near index 1
+\
+ ^
+
+java.util.regex.PatternSyntaxException: Unexpected internal error near index 1
+\
+ ^
+
+java.util.regex.PatternSyntaxException: Unexpected internal error near index 1
+\
+ ^
+
+java.util.regex.PatternSyntaxException: Unexpected internal error near index 1
+\
+ ^
+
+java.util.regex.PatternSyntaxException: Unexpected internal error near index 1
+\
+ ^
+
+java.util.regex.PatternSyntaxException: Unexpected internal error near index 1
+\
+ ^
+
+java.util.regex.PatternSyntaxException: Unexpected internal error near index 1
+\
+ ^
+
+java.util.regex.PatternSyntaxException: Unexpected internal error near index 1
+\
+ ^
+
+java.util.regex.PatternSyntaxException: Unexpected internal error near index 1
+\
+ ^
+
+Task Completed! 
+10 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-04 20:26:20
+
+ExtempFile Run: 2011-12-04 20:26:43
+
+java.util.regex.PatternSyntaxException: Unexpected internal error near index 1
+\
+ ^
+
+java.util.regex.PatternSyntaxException: Unexpected internal error near index 1
+\
+ ^
+
+java.util.regex.PatternSyntaxException: Unexpected internal error near index 1
+\
+ ^
+
+java.util.regex.PatternSyntaxException: Unexpected internal error near index 1
+\
+ ^
+
+java.util.regex.PatternSyntaxException: Unexpected internal error near index 1
+\
+ ^
+
+java.util.regex.PatternSyntaxException: Unexpected internal error near index 1
+\
+ ^
+
+java.util.regex.PatternSyntaxException: Unexpected internal error near index 1
+\
+ ^
+
+java.util.regex.PatternSyntaxException: Unexpected internal error near index 1
+\
+ ^
+
+java.util.regex.PatternSyntaxException: Unexpected internal error near index 1
+\
+ ^
+
+java.util.regex.PatternSyntaxException: Unexpected internal error near index 1
+\
+ ^
+
+Task Completed! 
+10 Feeds
+0 Items
+0 Total Download Size (mb)
+0.0 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-04 20:26:45
+
+ExtempFile Run: 2011-12-04 20:29:17
+
+java.io.FileNotFoundException: http://bostonreview.net/BR33.5/mcdaniels.php
+
+Task Completed! 
+10 Feeds
+103 Items
+3 Total Download Size (mb)
+546.875 Average Download Speed
+Time: 0 minutes
+
+ExtempFile Finished Run: 2011-12-04 20:30:08
+
+ExtempFile Run: 2011-12-05 16:38:27
+
+ExtempFile Finished Run: 2011-12-05 16:38:31
+
+ExtempFile Run: 2011-12-05 23:44:00
+
+java.net.SocketException: Permission denied: connect
+
+java.net.SocketException: Permission denied: connect
+
+java.net.SocketException: Permission denied: connect
+
+java.net.SocketException: Permission denied: connect
+
+java.io.FileNotFoundException: http://sportsillustrated.cnn.com/2011/football/ncaa/12/05/heisman-trophy-finalists.ap/index.html/?xid=si_topstories
+
+ExtempFile Finished Run: 2011-12-05 23:44:32
+
+ExtempFile Run: 2011-12-05 23:52:39
+
+ExtempFile Finished Run: 2011-12-05 23:52:47
+
+ExtempFile Run: 2011-12-05 23:57:58
+
+java.net.UnknownHostException: www.bostonreview.net
+
+java.net.UnknownHostException: www.bostonreview.net
+
+java.net.UnknownHostException: www.bostonreview.net
+
+java.net.UnknownHostException: www.bostonreview.net
+
+java.net.UnknownHostException: www.bostonreview.net
+
+java.net.UnknownHostException: www.bostonreview.net
+
+java.net.UnknownHostException: www.bostonreview.net
+
+java.net.UnknownHostException: www.bostonreview.net
+
+java.net.UnknownHostException: www.bostonreview.net
+
+java.net.UnknownHostException: www.bostonreview.net
+
+java.net.UnknownHostException: www.bostonreview.net
+
+java.net.UnknownHostException: www.bostonreview.net
+
+java.net.UnknownHostException: www.bostonreview.net
+
+java.net.UnknownHostException: www.bostonreview.net
+
+java.net.UnknownHostException: www.bostonreview.net
+
+java.net.UnknownHostException: www.bostonreview.net
+
+java.net.UnknownHostException: www.bostonreview.net
+
+java.net.UnknownHostException: www.bostonreview.net
+
+java.net.UnknownHostException: www.bostonreview.net
+
+Task Interrupted! 
+Number of Feeds: 10
+Number of Items: 96
+Total Download Size: 4mb) 
+Average Download Speed: 460.9375kbps 
+Time: 1 minutes, 17465 seconds
+
+ExtempFile Finished Run: 2011-12-05 23:59:15
+
+ExtempFile Run: 2011-12-06 00:00:18
+
+Task Interrupted! 
+Number of Feeds: 8
+Number of Items: 0
+Total Download Size: 0mb) 
+Average Download Speed: 0.0kbps 
+Time: 0 minutes, 912 seconds
+
+ExtempFile Finished Run: 2011-12-06 00:00:19
+
+ExtempFile Run: 2011-12-06 00:03:17
+
+Task Interrupted! 
+Number of Feeds: 9
+Number of Items: 3
+Total Download Size: 0mb) 
+Average Download Speed: 351.5625kbps 
+Time: 0 minutes, 4 seconds
+
+ExtempFile Finished Run: 2011-12-06 00:03:21
+
+ExtempFile Run: 2011-12-06 00:05:32
+
+Task Interrupted! 
+Number of Feeds: 7
+Number of Items: 0
+Total Download Size: 0.0mb
+Average Download Speed: 0.0kbps 
+Time: 0 minutes, 0 seconds
+
+ExtempFile Finished Run: 2011-12-06 00:05:33
+
+ExtempFile Run: 2011-12-06 00:08:18
+
+Task Interrupted! 
+Number of Feeds: 9
+Number of Items: 5
+Total Download Size: 0.0mb
+Average Download Speed: 632.8125kbps 
+Time: 0 minutes, 6 seconds
+
+ExtempFile Finished Run: 2011-12-06 00:08:24
+
+ExtempFile Run: 2011-12-06 01:26:56
+
+java.io.FileNotFoundException: http://sportsillustrated.cnn.com/2011/football/ncaa/12/05/heisman-trophy-finalists.ap/index.html/?xid=si_topstories
+
+Task Interrupted! 
+Number of Feeds: 5
+Number of Items: 37
+Total Download Size: 2.0mb
+Average Download Speed: 460.9375kbps 
+Time: 0 minutes, 38 seconds
+
+ExtempFile Finished Run: 2011-12-06 01:27:34
+
+ExtempFile Run: 2011-12-06 01:27:44
+
+java.io.FileNotFoundException: http://bostonreview.net/BR36.4/rodney_jack.php
+
+java.io.FileNotFoundException: http://www.bostonreview.net/about/jobs%0Ahttp://www.bostonreview.net/about/jobs
+
+java.io.IOException: Server returned HTTP response code: 400 for URL: http://www.92y.org?category=Programs - Literary Readings888Main Reading Series888&amp;productid=T-TP5MS23
+
+Task Interrupted! 
+Number of Feeds: 1
+Number of Items: 499
+Total Download Size: 22.0mb
+Average Download Speed: 750.0kbps 
+Time: 3 minutes, 58 seconds
+
+ExtempFile Finished Run: 2011-12-06 01:31:42
+
+ExtempFile Run: 2011-12-06 01:38:18
+
+Task Interrupted! 
+Number of Feeds: 1
+Number of Items: 17
+Total Download Size: 1.0mb
+Average Download Speed: 976.5625kbps 
+Time: 0 minutes, 8 seconds
+
+ExtempFile Finished Run: 2011-12-06 01:38:27
+
+ExtempFile Run: 2011-12-06 01:39:54
+
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&amp;tid=11864
+
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&amp;tid=11864
+
+java.io.FileNotFoundException: http://bostonreview.net/BR32.6/dayan2.php
+
+java.io.FileNotFoundException: http://www.crosswordbookstores.com/html/VCBA_WINNERS2008.html
+
+Task Interrupted! 
+Number of Feeds: 1
+Number of Items: 162
+Total Download Size: 7.0mb
+Average Download Speed: 695.3125kbps 
+Time: 1 minutes, 18 seconds
+
+ExtempFile Finished Run: 2011-12-06 01:41:12
+
+ExtempFile Run: 2011-12-06 01:41:26
+
+Task Interrupted! 
+Number of Feeds: 1
+Number of Items: 19
+Total Download Size: 1.0mb
+Average Download Speed: 992.1875kbps 
+Time: 0 minutes, 8 seconds
+
+ExtempFile Finished Run: 2011-12-06 01:41:35
+
+ExtempFile Run: 2011-12-06 16:20:25
+
+Task Interrupted! 
+Number of Feeds: 1
+Number of Items: 46
+Total Download Size: 1.0mb
+Average Download Speed: 820.3125kbps 
+Time: 0 minutes, 18 seconds
+
+ExtempFile Finished Run: 2011-12-06 16:20:43
+
+ExtempFile Run: 2011-12-06 16:40:17
+
+java.io.FileNotFoundException: http://rss.cnn.com/rss/cnn_wosadfrld.rss
+
+Task Completed! 
+Number of Feeds: 4
+Number of Items: 0
+Total Download Size: 0mb) 
+Average Download Speed: 2164.0625kbps 
+Time: 0 minutes, 2 seconds
+
+ExtempFile Finished Run: 2011-12-06 16:40:20
+
+ExtempFile Run: 2011-12-06 16:41:46
+
+java.io.FileNotFoundException: http://rss.cnn.com/rss/cnn_wosadfrld.rss
+
+Task Completed! 
+Number of Feeds: 4
+Number of Items: 0
+Total Download Size: 0mb) 
+Average Download Speed: 2070.3125kbps 
+Time: 0 minutes, 2 seconds
+
+ExtempFile Finished Run: 2011-12-06 16:41:48
+
+ExtempFile Run: 2011-12-06 16:43:04
+
+java.io.FileNotFoundException: http://bostonreview.net/BR33.5/mcdaniels.php
+
+java.io.FileNotFoundException: http://rss.cnn.com/rss/cnn_wosadfrld.rss
+
+Task Completed! 
+Number of Feeds: 4
+Number of Items: 121
+Total Download Size: 4mb) 
+Average Download Speed: 273.4375kbps 
+Time: 2 minutes, 19 seconds
+
+ExtempFile Finished Run: 2011-12-06 16:45:23
+
+ExtempFile Run: 2011-12-06 17:01:52
+
+java.io.FileNotFoundException: http://rss.cnn.com/rss/cnn_wosadfrld.rss
+
+Task Completed! 
+Number of Feeds: 4
+Number of Items: 0
+Total Download Size: 0mb) 
+Average Download Speed: 1406.25kbps 
+Time: 0 minutes, 3 seconds
+
+ExtempFile Finished Run: 2011-12-06 17:01:55
+
+ExtempFile Run: 2011-12-06 17:02:19
+
+java.io.FileNotFoundException: http://rss.cnn.com/rss/cnn_wosadfrld.rss
+
+java.net.UnknownHostException: nba-point-forward.si.com
+
+Task Completed! 
+Number of Feeds: 5
+Number of Items: 8
+Total Download Size: 1mb) 
+Average Download Speed: 406.25kbps 
+Time: 0 minutes, 20 seconds
+
+ExtempFile Finished Run: 2011-12-06 17:02:39
+
+ExtempFile Run: 2011-12-06 17:53:21
+
+Task Interrupted! 
+Number of Feeds: 1
+Number of Items: 0
+Total Download Size: 0.0mb
+Average Download Speed: 117.1875kbps 
+Time: 0 minutes, 36 seconds
+
+ExtempFile Finished Run: 2011-12-06 17:53:58
+
+ExtempFile Run: 2011-12-06 17:55:40
+
+Task Completed! 
+Number of Feeds: 1
+Number of Items: 10
+Total Download Size: 0mb) 
+Average Download Speed: 429.6875kbps 
+Time: 0 minutes, 8 seconds
+
+ExtempFile Finished Run: 2011-12-06 17:55:49
+
+ExtempFile Run: 2011-12-06 17:56:33
+
+Task Completed! 
+Number of Feeds: 1
+Number of Items: 0
+Total Download Size: 0mb) 
+Average Download Speed: 765.625kbps 
+Time: 0 minutes, 0 seconds
+
+ExtempFile Finished Run: 2011-12-06 17:56:33
+
+ExtempFile Run: 2012-10-06 18:33:11
+
+Task Interrupted! 
+Number of Feeds: 1
+Number of Items: 31
+Total Download Size: 2.0mb
+Average Download Speed: 1429.6875kbps 
+Time: 0 minutes, 13 seconds
+
+ExtempFile Finished Run: 2012-10-06 18:33:24
+
+ExtempFile Run: 2012-10-06 20:16:41
+
+Task Interrupted! 
+Number of Feeds: 1
+Number of Items: 24
+Total Download Size: 1.0mb
+Average Download Speed: 968.75kbps 
+Time: 0 minutes, 14 seconds
+
+ExtempFile Finished Run: 2012-10-06 20:16:56
+
+ExtempFile Run: 2012-10-06 20:21:07
+
+Task Interrupted! 
+Number of Feeds: 1
+Number of Items: 27
+Total Download Size: 2.0mb
+Average Download Speed: 1500.0kbps 
+Time: 0 minutes, 10 seconds
+
+ExtempFile Finished Run: 2012-10-06 20:21:17
+
+ExtempFile Run: 2012-10-06 20:22:02
+
+Task Interrupted! 
+Number of Feeds: 1
+Number of Items: 41
+Total Download Size: 3.0mb
+Average Download Speed: 1375.0kbps 
+Time: 0 minutes, 17 seconds
+
+ExtempFile Finished Run: 2012-10-06 20:22:20
+
+ExtempFile Run: 2012-10-06 20:22:26
+
+Task Completed! 
+Number of Feeds: 1
+Number of Items: 31
+Total Download Size: 3mb) 
+Average Download Speed: 1445.3125kbps 
+Time: 0 minutes, 17 seconds
+
+ExtempFile Finished Run: 2012-10-06 20:22:43
+
+ExtempFile Run: 2012-10-06 20:22:57
+
+Task Completed! 
+Number of Feeds: 1
+Number of Items: 0
+Total Download Size: 0mb) 
+Average Download Speed: 3804.6875kbps 
+Time: 0 minutes, 0 seconds
+
+ExtempFile Finished Run: 2012-10-06 20:22:58
+
+ExtempFile Run: 2012-10-06 20:55:31
+
+Task Completed! 
+Number of Feeds: 1
+Number of Items: 1
+Total Download Size: 0mb) 
+Average Download Speed: 1367.1875kbps 
+Time: 0 minutes, 3 seconds
+
+ExtempFile Finished Run: 2012-10-06 20:55:35
+
+ExtempFile Run: 2012-10-06 20:55:45
+
+Task Interrupted! 
+Number of Feeds: 1
+Number of Items: 31
+Total Download Size: 2.0mb
+Average Download Speed: 1179.6875kbps 
+Time: 0 minutes, 17 seconds
+
+ExtempFile Finished Run: 2012-10-06 20:56:03
+

@@ -54,7 +54,7 @@ public class FeedItem extends FileReaderWriter {
 
 
     }
-    public long downloadAsPDF() throws Exception {
+ /*   public long downloadAsPDF() throws Exception {
 
         File target;
 
@@ -65,10 +65,10 @@ public class FeedItem extends FileReaderWriter {
         
         try {
             target = new File(filepath, makeWinCompatible(title + " - " + description) + ".pdf");
-            bytes = new Download(getLink()).downloadFileAsPDF(target);
+            bytes = new Download(getLink()).downloadFile(target);
         } catch (IOException e) {
             target = new File(filepath, makeWinCompatible(title) + ".pdf");
-            bytes = new Download(getLink()).downloadFileAsPDF(target);
+            bytes = new Download(getLink()).downloadFile(target);
         }
 
 
@@ -77,7 +77,7 @@ public class FeedItem extends FileReaderWriter {
 
 
 
-    }
+    }*/
  
     /**
      * @return the title

@@ -70,22 +70,6 @@ public class Download extends FileReaderWriter {
      * @throws IOException
      * @throws Exception
      */
-    public long downloadFileAsPDF(File path, String target) throws IOException, Exception {
-        return downloadFileAsPDF(new File(path, target + ".pdf"));
-    }
-    public long downloadFileAsPDF(File target) throws IOException, Exception {
-        System.out.println(link.toString());
-        if (target.exists()) {
-
-            return 0;
-        }
-        
-        
-        
-        HTMLConverter converter = new HTMLConverter(link);
-        converter.writeAsPdf(target);
-        return target.length();
-    }
     /**
      * @return the link
      */

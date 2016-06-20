@@ -644,11 +644,7 @@ public class MainScreen extends javax.swing.JFrame {
 
                         long bytesDown = 0;
                         try {
-                            if(downloadPDF){
-                                bytesDown = f.downloadAsPDF();
-                            } else {
-                                bytesDown = f.download();
-                            }
+                            bytesDown = f.download();
                         } catch (Exception e) {
                             handle(e);
                         }
